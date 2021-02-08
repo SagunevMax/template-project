@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606173406808",
+    "project_id": "ecommerce-template-wolves",
+    "storage_bucket": "ecommerce-template-wolves.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606173406808:android:b4b48bdb09396f660acc2d",
+        "android_client_info": {
+          "package_name": "com.ecommerce_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606173406808-nrk2eg37jhpd7mmrkar9lv4pk54d79ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6prJtQfiY7exgruZL2m_PpPz4YmWlRRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606173406808-nrk2eg37jhpd7mmrkar9lv4pk54d79ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

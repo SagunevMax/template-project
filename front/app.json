@@ -1,0 +1,15 @@
+{
+  'Имя': "ecommerce-template",
+  "displayName": "ecommerce-template",
+  "expo": {
+    'Имя': "ecommerce-template",
+    "slug": "ecommerce-template",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "io.expo.client"
+    }
+  }
+}
